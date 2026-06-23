@@ -165,19 +165,20 @@ python test_tts.py
 
 ---
 
-# Roadmap
+# Current Status
 
-* [x] System Design
-* [ ] Stage 1: Core Call Loop
-* [ ] Stage 2: Multi-Tenant Dashboard
-* [ ] Stage 3: Multiple Call Types
-* [ ] Stage 4: Calendar Integration
-* [ ] Stage 5: CRM Integration
-* [ ] Stage 6: Multiple Industry Verticals
-* [ ] Stage 7: Billing & Self-Serve Onboarding
-* [ ] Stage 8: Reliability & Observability
+🚧 Under Development
 
----
+Current Focus:
+- Twilio call handling
+- Deepgram speech recognition
+- GPT-4o slot extraction
+- Cartesia voice responses
+
+Upcoming:
+- Google Calendar integration
+- CRM integration
+- Business dashboard
 
 # License
 
